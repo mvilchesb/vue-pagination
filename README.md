@@ -1,29 +1,5 @@
-# client
+# vue-pagination
 
-## Project setup
-```
-npm install
-```
+#### Simple paginación creada en Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://i.imgur.com/Ph5i0LQ.png)
